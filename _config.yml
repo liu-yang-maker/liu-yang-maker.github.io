@@ -3,9 +3,9 @@
 #
 
 # Name of your site (displayed in the header)
-name: "lemon's blog"
+name: "鸣也的博客"
 # Short bio or description (displayed in the header)
-description: "个人技术公众号「后端技术学堂」分享、记录、成长"
+description: "个人知乎号「鸣也」就这样从我的冬夏路过，分享、记录、成长"
 
 #
 # Flags below are optional
@@ -39,11 +39,11 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: ning-meng-cheng-31-94
-  email: lemonchann@foxmail.com
+  zhihu: 鸣也
+  email: 1668210218@qq.com
   facebook:
   flickr:
-  github: lemonchann 
+  github: liu-yang-maker
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
