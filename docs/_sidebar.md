@@ -10,3 +10,7 @@
 * [CNN](RCNN&YOLO)
 * [RCNN&YOLO](RCNN&YOLO)
 * [RNN](RNN)
+* [网络优化]
+* [正则化方法]
+* [注意力机制与外部记忆]
+* [深度生成模型]
